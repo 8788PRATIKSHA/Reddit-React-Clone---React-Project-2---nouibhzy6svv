@@ -75,8 +75,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions, feedback, or contributions, reach out:
 
-- GitHub: [ShehrozEdu](https://github.com/ShehrozEdu)
-- Email: battshehroz@example.com
+- GitHub: [8788PRATIKSHA](https://github.com/8788PRATIKSHA)
+- Email: pratikshadilipraoamale2000@example.com
 
 ## Credits
 
